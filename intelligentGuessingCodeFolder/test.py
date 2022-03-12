@@ -1,5 +1,5 @@
 import csv, re
-from turtle import position
+from pandas import read_csv 
 
 
 # with open('problemset1_submission.csv', 'rb') as csvfile:
@@ -25,7 +25,12 @@ with open('problemset1_submission.csv') as csv_file:
                 listEmail.append(word)
     
     for i in listEmail:
-        print(position('@', i))
+        print(i)
+
+
+
+
+
     
         
 

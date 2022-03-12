@@ -51,4 +51,4 @@ rownum,firstname,lastname,email,Email pattern,Comments
 50,chad,guyer,cguyer@gmail.com,<11-f1l>.<22>,First 1 letter of firstname.lastname
 51,marcel,de jong,marcel.dejong@gmail.com,<11>.<20><21>,Firstname.Firstpart of the last name AND second part of the lastname
 52,andrea,sala,andrea.sala@gmail.com,<11>.<22>,firstname.lastname
-53,armin,grathwohl,armin.grathwohl@gmail.com,<11>.<20><21>,Firstname.Firstpart of the last name AND second part of the lastname
+53,armin,grathwohl,armin.grathwohl@gmail.com,<11>.<22>,Firstname.lastname
